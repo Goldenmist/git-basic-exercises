@@ -1,0 +1,204 @@
+    1  winget install gh
+    2  gh pr status
+    3  gh pr checkout 3
+    4  gh login
+    5  config
+    6  [path]/etc/gitconfig
+    7  winget install gh
+    8  winget upgrade gh
+    9  git clone https://github.com/cli/cli.git gh-cli
+   10  cd gh-cli
+   11  revert
+   12  .git/config
+   13  git config --list --show-origin
+   14  git config --global user.name "Joseph Mogale"
+   15  git config --global user.email joseph1mogale@gmail.com
+   16  git config --global init. defaultBranch main
+   17  https://github.com/Umuzi-org/joseph-mogale-606-tilde-project-tutorial-how-repo-projects-work-
+   18  Umuzi-org/joseph-mogale-606-tilde-project-tutorial-how-repo-projects-work-
+   19  git user.name
+   20  git --global user.name
+   21  git --version
+   22  git checkout -b important-md
+   23  git config --global user.name
+   24  github
+   25  sudo apt install git-all
+   26  sudo dnf install git-all
+   27  git --version
+   28  sudo dnf install dh-autoreconf curl-devel expat-devel gettext-devel \ openssl-devel perl-devel zlib-devel
+   29  ~
+   30  q
+   31  clear
+   32  .git/config
+   33  -version
+   34  git -version
+   35  git --version
+   36  git help config
+   37  man add
+   38  git status
+   39  history
+   40  winget install git
+   41  winget install git
+   42  git config --global core.editor md
+   43  git config --global init.defaultBranch main
+   44  git config user.name
+   45  git config --show-origin rerere.autoUpdate
+   46  ls -lrh
+   47  pwd
+   48  ls
+   49  ls /data
+   50  cd
+   51  ls /data
+   52  ls /etc/perl
+   53  lx /
+   54  ls -lrh
+   55  ls /data
+   56  ls /etc/perl
+   57  pwd
+   58  ls /
+   59  mkdir Leaning_unix
+   60  ls
+   61  cd Learning_unix
+   62  cd Leaning_unix
+   63  mkdir Outside_directory
+   64  cd Outside_directory
+   65  mkdir Inside_directory
+   66  cd Inside_directory
+   67  mkdir -p Outer_directory/Inner_directory
+   68  cd Outer_directory/Inner_directory
+   69  cd /
+   70  cd home
+   71  cd user
+   72  cd ~
+   73  cd Leaning_unis
+   74  cd Leaning_unix
+   75  cd ..
+   76  cd ..
+   77  cd ../..
+   78  cd ../../../tmp
+   79  cd /tmp
+   80  cd /
+   81  pwd
+   82  cd ~
+   83  pwd
+   84  cd
+   85  pwd
+   86  ~/Leaning_unix
+   87  cd ~/Leaning_unix
+   88  cd /
+   89  cd ~/Leaning_unix
+   90  cd ~/Inner_directory
+   91  cd ~/Leaning_unix/Outside_directory/
+   92  ls ../../
+   93  ls -l ~/
+   94  man ls
+   95  man cd
+   96  man man 
+   97  apt-get install man
+   98  git config apt-get install man
+   99  sudo apt-get update
+  100  /# where is man
+  101  whereis man
+  102  .git/config
+  103  cd
+  104  apt-get install man
+  105  ~/.gitconfig
+  106  git config --list --show-origin
+  107  git config --show-origin rerere.autoUpdate
+  108  git --version
+  109  man git
+  110  ls --help
+  111  cd --help
+  112  help --help
+  113  cd --help -m
+  114  less --help
+  115  rmdir --help
+  116  cd ~/Leaning_unix/Outside_directory/Inside_directory/Outer_directory/
+  117  rmdir Inner_directory/
+  118  cd ..
+  119  ls
+  120  rmdir Outer_directory/
+  121  cd ..
+  122  ls
+  123  rmdir Inside_directory/
+  124  cd..
+  125  ls
+  126  cd ..
+  127  ls
+  128  rmdir Outside_directory/
+  129  cd ..
+  130  ls
+  131  rmdir Leaning_unix/
+  132  ls
+  133  mkdir Learning_unix
+  134  cd Learning_unix/
+  135  cd
+  136  cd Learning_unix/
+  137  history
+  138  mkdir git-basic-exercises
+  139  ~
+  140  mkdir git-basic-exercises
+  141  mkdir git-basic-exercises
+  142  mkdir git-basic-exercises
+  143  cd ~/git-basic-exercises
+  144  ls -a
+  145  git init
+  146  ls -a
+  147  git status
+  148  touch README.md
+  149  ls -a
+  150  git status
+  151  git log
+  152  git add touch README.md
+  153  git add README.md
+  154  git status
+  155  git rm --cached README.md
+  156  git status
+  157  git add README.md
+  158  git commit -m"initial commit"
+  159  git log
+  160  nano README.md
+  161  cat README.md
+  162  git status
+  163  git add README.md
+  164  git commit -m"second commit"
+  165  nano README.md
+  166  cat README.md
+  167  git status
+  168  git add README.md
+  169  git commit -m "third commit"
+  170  git log
+  171  q
+  172  git checkout ba95ca34fe770ef6c5055a77b05dfcd97d5411e9
+  173  cat README.md
+  174  git checkout main
+  175  cat README.md
+  176  git branch
+  177  mkdir milkshake-flavours
+  178  git branch
+  179  cd ~/milkshake-flavours
+  180  cd milkshake-flavours/
+  181  git branch
+  182  cd ..
+  183  git rm milkshake-flavours/
+  184  git branch milkshake-flavours
+  185  git branch
+  186  git checkout milkshake-flavours
+  187  git branch
+  188  git checkout milkshake-flavours
+  189  git branch
+  190  git checkout main
+  191  git branch
+  192  git checkout milkshake-flavours
+  193  git branch
+  194  nano milkshakes.md
+  195  nano milkshakes.md
+  196  git status
+  197  git add milkshakes.md
+  198  git commit -m "added initial flavours"
+  199  git log
+  200  git checkout dce81ce9f69a773bd2408d9e62761e42703f3702
+  201  git branch history
+  202  git checkout history
+  203  git log
+  204  history > history.txt
